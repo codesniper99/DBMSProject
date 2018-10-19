@@ -58,33 +58,33 @@
               <Component id="jLabel1" min="-2" pref="75" max="-2" attributes="0"/>
               <EmptySpace min="-2" pref="40" max="-2" attributes="0"/>
               <Group type="103" groupAlignment="0" max="-2" attributes="0">
-                  <Component id="jLabel8" max="32767" attributes="0"/>
-                  <Component id="jLabel2" pref="35" max="32767" attributes="0"/>
+                  <Component id="jLabel8" pref="38" max="32767" attributes="0"/>
+                  <Component id="jLabel2" pref="38" max="32767" attributes="0"/>
               </Group>
               <EmptySpace type="separate" max="-2" attributes="0"/>
               <Group type="103" groupAlignment="3" attributes="0">
-                  <Component id="jLabel3" alignment="3" min="-2" pref="37" max="-2" attributes="0"/>
+                  <Component id="jLabel3" alignment="3" min="-2" pref="38" max="-2" attributes="0"/>
                   <Component id="jLabel9" alignment="3" min="-2" pref="38" max="-2" attributes="0"/>
               </Group>
               <EmptySpace type="separate" max="-2" attributes="0"/>
               <Group type="103" groupAlignment="3" attributes="0">
-                  <Component id="jLabel4" alignment="3" min="-2" pref="35" max="-2" attributes="0"/>
-                  <Component id="jLabel10" alignment="3" min="-2" pref="39" max="-2" attributes="0"/>
+                  <Component id="jLabel4" alignment="3" min="-2" pref="38" max="-2" attributes="0"/>
+                  <Component id="jLabel10" alignment="3" min="-2" pref="38" max="-2" attributes="0"/>
               </Group>
               <EmptySpace type="separate" max="-2" attributes="0"/>
               <Group type="103" groupAlignment="0" max="-2" attributes="0">
-                  <Component id="jLabel11" max="32767" attributes="0"/>
-                  <Component id="jLabel5" pref="35" max="32767" attributes="0"/>
+                  <Component id="jLabel11" pref="38" max="32767" attributes="0"/>
+                  <Component id="jLabel5" pref="38" max="32767" attributes="0"/>
               </Group>
               <EmptySpace type="separate" max="-2" attributes="0"/>
               <Group type="103" groupAlignment="0" max="-2" attributes="0">
-                  <Component id="jLabel12" max="32767" attributes="0"/>
-                  <Component id="jLabel6" pref="35" max="32767" attributes="0"/>
+                  <Component id="jLabel12" pref="38" max="32767" attributes="0"/>
+                  <Component id="jLabel6" pref="38" max="32767" attributes="0"/>
               </Group>
               <EmptySpace type="separate" max="-2" attributes="0"/>
               <Group type="103" groupAlignment="0" max="-2" attributes="0">
-                  <Component id="jLabel7" pref="35" max="32767" attributes="0"/>
-                  <Component id="jLabel13" max="32767" attributes="0"/>
+                  <Component id="jLabel7" pref="38" max="32767" attributes="0"/>
+                  <Component id="jLabel13" pref="38" max="32767" attributes="0"/>
               </Group>
               <EmptySpace pref="265" max="32767" attributes="0"/>
           </Group>
