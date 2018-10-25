@@ -4,6 +4,7 @@
  * and open the template in the editor.
  */
 package javaapplication2;
+import java.awt.event.*;
 
 /**
  *
@@ -87,11 +88,21 @@ public class Login_As extends javax.swing.JFrame {
                 .addContainerGap(129, Short.MAX_VALUE))
         );
 
+        jButton1.getAccessibleContext().setAccessibleName("employee");
+
         pack();
     }// </editor-fold>//GEN-END:initComponents
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
         // TODO add your handling code here:
+        jButton1.addActionListener(new ActionListener()
+        {
+            public void actionPerformed(ActionEvent e)
+            {
+                Employee_Login a=new Employee_Login();
+                a.setVisible(true);
+            }
+        });
     }//GEN-LAST:event_jButton1ActionPerformed
 
     /**
